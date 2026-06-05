@@ -16,6 +16,7 @@
 | VI | [La vita del sistema nel tempo](./06_system-lifecycle.md) | Brand Radar, Guardian Loop, Re-Speculation, modelli di ingaggio. |
 | VII | [Il layer etico aperto](./07_open-ethical-layer.md) | Aperto vs. proprietario. La matrice comportamentale come bene comune. |
 | VIII | [Definition of Done](./08_definition-of-done.md) | Il contratto operativo. Criteri di autonomia del cliente. |
+| IX | [Il BOS e l'Agent Experience](./09_agent-experience.it.md) | Come gli output del BOS (Policy, Skill, Contratti) si mappano sui design asset AX per gli agenti AI che agiscono per conto del brand. |
 
 ---
 

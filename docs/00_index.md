@@ -16,6 +16,7 @@
 | VI | [The System's Life Over Time](./06_system-lifecycle.md) | Brand Radar, Guardian Loop, Re-Speculation, engagement models. |
 | VII | [The Open Ethical Layer](./07_open-ethical-layer.md) | Open vs. proprietary. The behavioral matrix as a common good. |
 | VIII | [Definition of Done](./08_definition-of-done.md) | The operational contract. Client autonomy criteria. |
+| IX | [The BOS and Agent Experience](./09_agent-experience.md) | How BOS outputs (Policies, Skills, Contracts) map to AX design assets for AI agents acting on behalf of the brand. |
 
 Italian versions: [00_index.it.md](./00_index.it.md) and all corresponding `.it.md` files.
 
