@@ -1,25 +1,29 @@
-# Audit della memoria
+# Memory Audit
 
 **Layer**: Memory Architecture  
-**Durata**: 2 ore · trimestrale
+**Duration**: 2 hours · quarterly
 
 ---
 
-## Obiettivo
+## Objective
 
-Verificare che i cinque domini siano aggiornati, coerenti tra loro e riflettano accuratamente l'evoluzione del brand.
+Verify that the five domains are updated, coherent with each other, and accurately reflect the evolution of the brand.
 
-## Come si svolge
+## How It Works
 
-Il Brand Alchemist convoca il Circolo ogni trimestre per una revisione della memoria. Per ogni dominio:
+The Brand Alchemist convenes the Circle each quarter for a memory review. For each domain:
 
-- I dati sono aggiornati?
-- Ci sono incoerenze tra Brand Memory e Decision Memory?
-- Il Refusal Register riflette scelte ancora valide?
-- Il Context Memory segnala segnali che richiedono di aggiornare gli scenari?
+- Is the data up to date?
+- Are there inconsistencies between Brand Memory and Decision Memory?
+- Does the Refusal Register reflect choices that are still valid?
+- Does Context Memory signal signals that require updating the scenarios?
 
-L'audit produce un report sintetico con le azioni di aggiornamento necessarie.
+The audit produces a concise report with the necessary update actions.
 
-## Output atteso
+## Expected Output
 
-Memory Audit Report con stato dei cinque domini, incoerenze rilevate e piano di aggiornamento.
+Memory Audit Report with the status of the five domains, detected inconsistencies, and update plan.
+
+---
+
+*Versione italiana: [audit-memoria.it.md](./audit-memoria.it.md)*

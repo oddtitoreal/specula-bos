@@ -1,18 +1,22 @@
-# Mappa dei segnali deboli
+# Weak Signals Map
 
 **Layer**: 01 · WORLD — Signal Scan  
-**Durata**: 3 ore
+**Duration**: 3 hours
 
 ---
 
-## Obiettivo
+## Objective
 
-Costruire collettivamente una mappa dei segnali deboli rilevanti per il brand, classificandoli per dominio e urgenza.
+Collectively build a map of weak signals relevant to the brand, classified by domain and urgency.
 
-## Come si svolge
+## How It Works
 
-Ogni partecipante porta cinque segnali deboli osservati nel proprio dominio di competenza. Il gruppo lavora in due round: nel primo classifica i segnali per dominio (culturale, tecnologico, normativo, economico, ambientale); nel secondo costruisce le implication chains, tracciando come ogni segnale potrebbe influenzare gli altri e cosa implicherebbe per il brand se si consolidasse. L'AI viene usata per identificare correlazioni non ovvie tra segnali di domini diversi.
+Each participant brings five weak signals observed in their domain of expertise. The group works in two rounds: in the first, signals are classified by domain (cultural, technological, regulatory, economic, environmental); in the second, implication chains are built, tracing how each signal could influence others and what it would mean for the brand if it consolidated. AI is used to identify non-obvious correlations between signals from different domains.
 
-## Output atteso
+## Expected Output
 
-Weak Signals Map condivisa con 15–20 segnali classificati e le loro implicazioni di primo e secondo livello.
+Shared Weak Signals Map with 15–20 classified signals and their first- and second-level implications.
+
+---
+
+*Versione italiana: [mappa-segnali-deboli.it.md](./mappa-segnali-deboli.it.md)*

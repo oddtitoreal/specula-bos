@@ -1,31 +1,33 @@
-# Il principio e la promessa
+# The Principle and the Promise
 
-*Il mondo viene prima del brand.*
-
----
-
-Specula Future Crafting non inizia dall'analisi del mercato, del target o dei competitor. Inizia dai segnali deboli: trasformazioni culturali ancora sotterranee, tensioni emergenti che non hanno ancora trovato nome, discontinuità tecnologiche che ridisegnano le aspettative prima di ridisegnare i prodotti.
-
-Da quei segnali costruisce scenari divergenti. Dal confronto tra quegli scenari e il DNA profondo del brand estrae l'identità che può restare coerente attraverso futuri radicalmente diversi. Da quell'identità discende tutto il resto: le decisioni, le narrazioni, i sistemi di governance, gli agenti AI.
+*The world comes before the brand.*
 
 ---
 
-## VEDERE · SCEGLIERE · RESTARE
+Specula Future Crafting does not begin with market analysis, target audiences, or competitors. It begins with weak signals: cultural transformations still underground, emerging tensions that have not yet found a name, technological discontinuities that reshape expectations before they reshape products.
 
-| VEDERE | SCEGLIERE | RESTARE |
+From those signals it builds divergent scenarios. From the confrontation between those scenarios and the brand's deep DNA it extracts the identity that can remain coherent across radically different futures. From that identity everything else follows: decisions, narratives, governance systems, AI agents.
+
+---
+
+## SEE · CHOOSE · REMAIN
+
+| SEE | CHOOSE | REMAIN |
 |---|---|---|
-| Aprire il campo dei futuri possibili prima di prendere qualsiasi decisione identitaria. | Selezionare il futuro che il brand vuole contribuire a rendere più probabile. | Mantenere quella scelta coerente nel tempo, anche quando il contesto cambia. |
+| Opening the field of possible futures before making any identity decision. | Selecting the future the brand wants to help make more probable. | Keeping that choice coherent over time, even when the context changes. |
 
-Questa è la traiettoria esterna del BOS: il modo in cui il sistema incontra il cliente prima di aprirsi. Ma dietro VEDERE / SCEGLIERE / RESTARE c'è una struttura precisa.
-
----
-
-## Il principio del brief rimodulato
-
-Ogni progetto nasce da un brief. E il brief porta già dentro di sé, implicite e non negoziate, le assunzioni valoriali di chi lo ha scritto. Il problema non è che i valori arrivino tardi nel processo: è che arrivano già codificati nel brief come se fossero neutri.
-
-Il BOS non precede il brief. Lo rimodula. Entra nel processo prima che il progetto prenda forma definitiva, espone le assunzioni implicite, e riscrive il brief come documento già orientato da una grammatica valoriale condivisa. Non un vincolo esterno: una grammatica scoperta insieme.
+This is the external trajectory of the BOS: the way the system meets the client before opening up. But behind SEE / CHOOSE / REMAIN there is a precise structure.
 
 ---
 
-*Vai al workshop: [Il brief sotto stress](../workshops/brief-sotto-stress.md) — 90 min*
+## The Modulated Brief Principle
+
+Every project starts from a brief. And the brief already carries within it, implicit and unnegotiated, the value assumptions of whoever wrote it. The problem is not that values arrive late in the process: it is that they arrive already encoded in the brief as if they were neutral.
+
+The BOS does not precede the brief. It modulates it. It enters the process before the project takes its final form, exposes the implicit assumptions, and rewrites the brief as a document already oriented by a shared value grammar. Not an external constraint: a grammar discovered together.
+
+---
+
+*Workshop: [The Brief Under Stress](../workshops/brief-sotto-stress.md) — 90 min*
+
+*Versione italiana: [02_principle-promise.it.md](./02_principle-promise.it.md)*

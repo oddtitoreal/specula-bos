@@ -1,29 +1,33 @@
 # Definition of Done
 
-*Il contratto operativo tra Specula Future Crafting e il cliente.*
+*The operational contract between Specula Future Crafting and the client.*
 
 ---
 
-La maggior parte delle relazioni di consulenza non dichiara quando finiscono. Si allungano, si rinnovano, si ridefiniscono. Il cliente non sa esattamente cosa ha comprato. Specula Future Crafting lavora diversamente. Il mandato ha una forma precisa, e quella forma è scritta qui.
+Most consulting relationships never declare when they end. They extend, renew, redefine. The client does not know exactly what they bought. Specula Future Crafting works differently. The mandate has a precise form, and that form is written here.
 
 ---
 
-## Il criterio unico
+## The Single Criterion
 
-> Specula Future Crafting considera completato il proprio mandato quando l'organizzazione cliente è in grado di governare il proprio Brand Operating System in piena autonomia: aggiornare la memoria, deliberare nel Circolo di Sintesi, attraversare un ciclo di Guardian Loop e rimodulare il brief di progetto senza richiedere input esterni.
+> Specula Future Crafting considers its mandate complete when the client organization is able to govern its own Brand Operating System with full autonomy: updating memory, deliberating in the Synthesis Circle, traversing a Guardian Loop cycle, and modulating the project brief without requiring external input.
 
-**Specula Future Crafting si compie quando non serve più.**
+**Specula Future Crafting fulfills itself when it is no longer needed.**
 
-Questo non è un criterio di uscita commerciale. È la dichiarazione di un'etica della relazione. Specula Future Crafting non costruisce dipendenza: trasferisce capacità. Il successo non si misura nella durata del contratto, ma nella profondità con cui il metodo è diventato una competenza strutturale dell'organizzazione, un'architettura cognitiva che l'organizzazione abita invece di applicare.
+This is not a commercial exit criterion. It is the declaration of a relational ethic. Specula Future Crafting does not build dependency: it transfers capability. Success is not measured in the duration of the contract, but in the depth with which the method has become a structural competence of the organization — a cognitive architecture that the organization inhabits rather than applies.
 
 ---
 
-## Criteri negoziabili — esempi possibili
+## Negotiable Criteria — Possible Examples
 
-Questi criteri non sono parte del manifesto. Sono strumenti di verifica che il Circolo di Sintesi e Specula Future Crafting concordano insieme all'inizio del percorso, selezionando quelli più rilevanti per il contesto specifico. Non tutti devono essere soddisfatti: la selezione è essa stessa un atto di governance.
+These criteria are not part of the manifesto. They are verification tools that the Synthesis Circle and Specula Future Crafting agree on together at the start of the journey, selecting the ones most relevant for the specific context. Not all need to be satisfied: the selection itself is an act of governance.
 
-- Il Brand Alchemist interno ha condotto almeno un ciclo completo di governance del Circolo in autonomia.
-- La Memory Architecture è popolata in tutti e cinque i domini e viene aggiornata senza facilitazione esterna.
-- Il Circolo ha deliberato almeno una decisione di rifiuto registrata nel Refusal Register con motivazione valoriale propria.
-- Il Brand Radar ha attraversato almeno un ciclo di allerta e risposta senza intervento di Specula Future Crafting.
-- Il team è in grado di condurre il workshop di rimodulazione del brief usando il BOS come grammatica già internalizzata.
+- The internal Brand Alchemist has led at least one complete Circle governance cycle autonomously.
+- The Memory Architecture is populated across all five domains and is updated without external facilitation.
+- The Circle has deliberated at least one refusal decision registered in the Refusal Register with its own value motivation.
+- The Brand Radar has traversed at least one alert-and-response cycle without Specula Future Crafting intervention.
+- The team is able to conduct the brief modulation workshop using the BOS as an already internalized grammar.
+
+---
+
+*Versione italiana: [08_definition-of-done.it.md](./08_definition-of-done.it.md)*

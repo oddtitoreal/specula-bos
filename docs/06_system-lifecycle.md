@@ -1,37 +1,41 @@
-# La vita del sistema nel tempo
+# The System's Life Over Time
 
-*Cosa diventa il BOS dopo che è stato costruito.*
-
----
-
-Un sistema che si attraversa una sola volta non è un sistema operativo: è un progetto con una data di scadenza. Il BOS è progettato per vivere. Il layer di governance post-deploy risponde a tre domande: chi presiede il sistema, come mantiene la coerenza nel tempo, e con quale intensità il brand vuole ingaggiare il processo.
+*What the BOS becomes after it has been built.*
 
 ---
 
-## Brand Radar e Guardian Loop
-
-Il Brand Radar trasforma i valori radicali in assi di misurazione. Non vanity metrics: indicatori che misurano nel tempo la coerenza tra promessa e comportamento. Ogni azione del brand viene letta attraverso quattro dimensioni: coerenza identitaria, tensione evolutiva, risonanza culturale, integrità operativa.
-
-Il Guardian Loop è il dispositivo che segnala i drift. Quando per due cicli consecutivi i segnali divergono dagli scenari di riferimento, il sistema non aspetta la crisi: propone la Re-Speculation. Non si riparte da zero. Si rientra nel layer più vicino all'origine del problema.
-
-> **Regola fondamentale: la Re-Speculation è sempre una decisione umana. Il sistema la suggerisce. Le persone la attivano.**
+A system traversed only once is not an operating system: it is a project with an expiration date. The BOS is designed to live. The post-deploy governance layer answers three questions: who presides over the system, how it maintains coherence over time, and with what intensity the brand wants to engage the process.
 
 ---
 
-## I modelli di ingaggio
+## Brand Radar and Guardian Loop
+
+The Brand Radar transforms radical values into measurement axes. Not vanity metrics: indicators that measure over time the coherence between promise and behavior. Every brand action is read through four dimensions: identity coherence, evolutionary tension, cultural resonance, operational integrity.
+
+The Guardian Loop is the device that signals drift. When for two consecutive cycles signals diverge from reference scenarios, the system does not wait for the crisis: it proposes Re-Speculation. You do not start from scratch. You re-enter at the layer closest to the origin of the problem.
+
+> **Fundamental rule: Re-Speculation is always a human decision. The system suggests it. People activate it.**
+
+---
+
+## Engagement Models
 
 | Specula Audit | Specula Full Journey | Specula Guardian |
 |---|---|---|
-| ~2 settimane. Diagnosi: identità, maturità AI, coerenza tra valori e pratiche, resilienza rispetto a scenari chiave. Output: report narrativo e decisione su come proseguire. | 2–3 mesi. Il processo completo. Tutti i layer con team misto. Output: suite di documenti, prototipi, Strategic Protocol, Brand Radar configurato. | Annuale. Presidio continuo. Ogni trimestre: revisione degli scenari, rilevazione dei drift, Guardian Report. Con clausola di Re-Speculation se i segnali divergono. |
+| ~2 weeks. Diagnosis: identity, AI maturity, coherence between values and practices, resilience against key scenarios. Output: narrative report and decision on how to proceed. | 2–3 months. The complete process. All layers with a mixed team. Output: document suite, prototypes, Strategic Protocol, configured Brand Radar. | Annual. Continuous oversight. Each quarter: scenario review, drift detection, Guardian Report. With Re-Speculation clause if signals diverge. |
 
 ---
 
-## Human-AI: responsabilità non sovrapponibili
+## Human-AI: Non-Overlapping Responsibilities
 
-| AI — Amplifica | Human — Guida |
+| AI — Amplifies | Human — Guides |
 |---|---|
-| Pattern detection su scala globale | Interpretazione culturale |
-| Generazione scenari divergenti | Selezione e validazione valoriale |
-| Monitoraggio segnali e coerenza | Scelta strategica e governance etica |
-| Contradiction detection nel DNA | Definizione dei valori radicali |
-| Decision support e advisory | Attivazione della Re-Speculation |
+| Pattern detection at global scale | Cultural interpretation |
+| Generation of divergent scenarios | Value selection and validation |
+| Signal and coherence monitoring | Strategic choice and ethical governance |
+| Contradiction detection in DNA | Definition of radical values |
+| Decision support and advisory | Activation of Re-Speculation |
+
+---
+
+*Versione italiana: [06_system-lifecycle.it.md](./06_system-lifecycle.it.md)*

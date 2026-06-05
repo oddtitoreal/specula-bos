@@ -1,32 +1,34 @@
-# La memoria come strato cognitivo
+# Memory as a Cognitive Layer
 
-*Il momento in cui il BOS smette di essere un framework e diventa un sistema.*
-
----
-
-Un framework si attraversa. Un sistema cognitivo apprende. La distinzione non è retorica: è architettonica. La Memory Architecture è ciò che trasforma il BOS da percorso lineare a entità vivente capace di accumulare esperienza, riconoscere pattern, segnalare incoerenze e suggerire riallineamenti.
-
-La memoria non è un archivio. È un sistema di recupero attivo: ogni nuova decisione viene confrontata con ciò che il brand ha già scelto, rifiutato, imparato. La coerenza nel tempo non è una questione di volontà: è una questione di infrastruttura.
+*The moment the BOS stops being a framework and becomes a system.*
 
 ---
 
-## I cinque domini di memoria
+A framework is traversed. A cognitive system learns. The distinction is not rhetorical: it is architectural. The Memory Architecture is what transforms the BOS from a linear path to a living entity capable of accumulating experience, recognizing patterns, signaling incoherences, and suggesting realignments.
+
+Memory is not an archive. It is an active retrieval system: every new decision is compared against what the brand has already chosen, refused, and learned. Coherence over time is not a matter of will: it is a matter of infrastructure.
+
+---
+
+## The Five Memory Domains
 
 ### Scenario Memory
-Conserva gli scenari generati, i driver che li hanno prodotti, gli indicatori di materializzazione e gli aggiornamenti periodici. Permette al sistema di confrontare il mondo attuale con i futuri immaginati e rilevare dove la realtà sta divergendo dalle ipotesi.
+Stores the scenarios generated, the drivers that produced them, the materialization indicators, and periodic updates. Allows the system to compare the current world against the imagined futures and detect where reality is diverging from the hypotheses.
 
 ### Brand Memory
-Il DNA speculativo del brand: valori radicali, tensioni etiche, archetipi ricorrenti, evoluzione narrativa. È la bussola interna del sistema, il criterio rispetto al quale ogni output viene valutato prima di procedere al layer successivo.
+The brand's speculative DNA: radical values, ethical tensions, recurring archetypes, narrative evolution. It is the internal compass of the system, the criterion against which every output is evaluated before proceeding to the next layer.
 
 ### Decision Memory
-L'archivio delle scelte strategiche prese, con motivazione, contesto e indicatori di risultato. Permette al Guardian di rilevare se le decisioni attuali sono coerenti con quelle passate o segnalano un drift silenzioso.
+The archive of strategic choices made, with motivation, context, and outcome indicators. Allows the Guardian to detect whether current decisions are coherent with past ones or signal a silent drift.
 
 ### Refusal Memory
-Il Refusal Register nel tempo: tutto ciò che il brand ha scelto deliberatamente di non diventare, con la motivazione valoriale e il rischio evitato. Nel tempo questo archivio diventa parte dell'identità quanto le scelte attive.
+The Refusal Register over time: everything the brand has deliberately chosen not to become, with the value motivation and the risk avoided. Over time this archive becomes part of the identity as much as active choices.
 
 ### Context Memory
-La mappa del contesto esterno: segnali deboli aggiornati, movimenti dei competitor, cambiamenti normativi, evoluzioni culturali. Alimenta il Signal Scan continuo e permette al sistema di ricalibrarsi rispetto a un mondo che non smette di cambiare.
+The map of the external context: updated weak signals, competitor movements, regulatory changes, cultural evolutions. Feeds the continuous Signal Scan and allows the system to recalibrate against a world that never stops changing.
 
 ---
 
-*Vai al workshop: [Audit della memoria](../workshops/audit-memoria.md) — 2 ore · trimestrale*
+*Workshop: [Memory Audit](../workshops/audit-memoria.md) — 2 hours · quarterly*
+
+*Versione italiana: [05_memory-architecture.it.md](./05_memory-architecture.it.md)*

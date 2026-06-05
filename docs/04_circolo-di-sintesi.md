@@ -1,45 +1,49 @@
-# Il Circolo di Sintesi dell'Identità
+# The Identity Synthesis Circle
 
-*L'organo vivente che presiede il BOS per tutta la durata della sua vita operativa.*
-
----
-
-La maggior parte delle organizzazioni affida le decisioni identitarie a una singola funzione o a un singolo ruolo. Il risultato è un brand che porta i bias cognitivi e disciplinari di chi lo governa senza saperlo: non per malafede, ma per mancanza di struttura deliberativa. Il Circolo di Sintesi dell'Identità è la risposta architettonica a questo problema.
+*The living body that presides over the BOS for the entire duration of its operational life.*
 
 ---
 
-## Composizione e logica disciplinare
+Most organizations entrust identity decisions to a single function or a single role. The result is a brand that carries the cognitive and disciplinary biases of whoever governs it without knowing it: not out of bad faith, but out of a lack of deliberative structure. The Identity Synthesis Circle is the architectural answer to this problem.
 
-Il Circolo è composto da un minimo di quattro e un massimo di sette persone. Sotto quattro, il processo deliberativo perde la tensione necessaria tra prospettive diverse. Sopra sette, la sintesi diventa negoziazione e il Circolo smette di essere un organo di governance per diventare un'assemblea.
+---
 
-Le discipline rappresentate devono coprire almeno tre dei quattro quadranti del sistema:
+## Composition and Disciplinary Logic
 
-| Lettura del contesto | Identità e narrazione | Etica e impatto | Operatività |
+The Circle is composed of a minimum of four and a maximum of seven people. Below four, the deliberative process loses the tension necessary between different perspectives. Above seven, synthesis becomes negotiation and the Circle stops being a governance body and becomes an assembly.
+
+The disciplines represented must cover at least three of the four quadrants of the system:
+
+| Reading the context | Identity and narrative | Ethics and impact | Operations |
 |---|---|---|---|
-| Chi sa leggere segnali, tendenze e trasformazioni culturali. | Chi sa costruire e tenere storie nel tempo. | Chi sa vedere le conseguenze non intenzionali. | Chi traduce principi in comportamenti concreti. |
+| Those who can read signals, trends, and cultural transformations. | Those who can build and hold stories over time. | Those who can see unintended consequences. | Those who translate principles into concrete behaviors. |
 
-La composizione mescola deliberatamente interno ed esterno. Almeno due figure provengono dall'organizzazione: una con mandato strategico, una con responsabilità operativa sul brand. Almeno una figura proviene dall'esterno: un eticista, un ricercatore di futures, un antropologo culturale.
+The composition deliberately mixes internal and external. At least two figures come from the organization: one with strategic mandate, one with operational responsibility for the brand. At least one figure comes from outside: an ethicist, a futures researcher, a cultural anthropologist.
 
-La presenza esterna non è decorativa: serve a interrompere i loop autoreferenziali che ogni organizzazione genera quando ragiona su se stessa.
-
----
-
-## Il Brand Alchemist
-
-Il Brand Alchemist è il nodo di sintesi del Circolo. La distinzione tra nodo di sintesi e capo è sostanziale: la sua funzione non è orientare le decisioni nella direzione che ritiene giusta, ma assicurarsi che il processo deliberativo produca sintesi invece di compromessi.
-
-Una sintesi trasforma le tensioni in qualcosa che nessuno avrebbe raggiunto da solo. Un compromesso lascia tutti parzialmente insoddisfatti e il sistema parzialmente incoerente.
-
-È l'unica figura con accesso completo a tutta la memoria del sistema: scenari, DNA del brand, Decision Log, Refusal Register. È il custode della continuità tra cicli di lavoro e il garante che le decisioni del Circolo vengano valutate rispetto a ciò che il brand ha già scelto di essere e di non essere.
-
-Il Brand Alchemist può essere portato da Specula Future Crafting nelle fasi iniziali, quando il sistema sta prendendo forma e la memoria è ancora sottile. Ma la traiettoria fisiologica è che diventi una figura interna all'organizzazione, formata nel metodo e capace di governare il BOS in piena autonomia. Specula Future Crafting accompagna questa transizione come parte del mandato, non come sua negazione.
+The external presence is not decorative: it serves to interrupt the self-referential loops that every organization generates when it reasons about itself.
 
 ---
 
-## Mandato e ritualità
+## The Brand Alchemist
 
-Il Circolo non si riunisce quando c'è un problema. Si riunisce secondo una ritualità definita, indipendentemente dall'urgenza percepita. Sono questi i momenti in cui il sistema riflette su se stesso prima che la deriva diventi crisi.
+The Brand Alchemist is the synthesis node of the Circle. The distinction between synthesis node and leader is substantial: their function is not to steer decisions in the direction they think is right, but to ensure that the deliberative process produces synthesis instead of compromise.
 
-| Scan mensile | Sensemaking trimestrale | Review semestrale | Memory Audit annuale |
+A synthesis transforms tensions into something no one would have reached alone. A compromise leaves everyone partially unsatisfied and the system partially incoherent.
+
+The Brand Alchemist is the only figure with complete access to the entire system memory: scenarios, brand DNA, Decision Log, Refusal Register. They are the custodian of continuity between work cycles and the guarantor that Circle decisions are evaluated against what the brand has already chosen to be and not to be.
+
+The Brand Alchemist can be brought by Specula Future Crafting in the early stages, when the system is taking shape and memory is still thin. But the physiological trajectory is for this role to become an internal figure of the organization, trained in the method and capable of governing the BOS with full autonomy. Specula Future Crafting accompanies this transition as part of the mandate, not as its negation.
+
+---
+
+## Mandate and Rituals
+
+The Circle does not meet when there is a problem. It meets according to a defined ritual, independently of perceived urgency. These are the moments when the system reflects on itself before drift becomes crisis.
+
+| Monthly Scan | Quarterly Sensemaking | Semi-Annual Review | Annual Memory Audit |
 |---|---|---|---|
-| Aggiornamento dei segnali deboli e rilevazione di anomalie nel contesto. | Confronto tra scenari e realtà emergente. Rilevazione dei primi drift. | Revisione del DNA: i valori radicali reggono? Le tensioni etiche sono cambiate? | Verifica dei cinque domini di memoria. Coerenza tra Decision Log e Refusal Register. |
+| Update of weak signals and detection of anomalies in context. | Comparison between scenarios and emerging reality. Detection of first drift. | Review of DNA: do radical values still hold? Have ethical tensions changed? | Verification of the five memory domains. Coherence between Decision Log and Refusal Register. |
+
+---
+
+*Versione italiana: [04_circolo-di-sintesi.it.md](./04_circolo-di-sintesi.it.md)*

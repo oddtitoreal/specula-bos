@@ -1,24 +1,28 @@
-# Confrontation: il brand nei futuri
+# Confrontation: The Brand in Futures
 
 **Layer**: 04 · EXPLORATION — Speculative Prototyping  
-**Durata**: 4 ore
+**Duration**: 4 hours
 
 ---
 
-## Obiettivo
+## Objective
 
-Prototipare come il brand si manifesterebbe in ciascuno scenario, portando i prototipi al Gate Etico.
+Prototype how the brand would manifest in each scenario, bringing prototypes to the Ethical Gate.
 
-## Come si svolge
+## How It Works
 
-Ogni team di scenario costruisce due prototipi discorsivi: un oggetto che il brand potrebbe produrre in quel futuro e un'interfaccia conversazionale. I prototipi vengono portati al Gate Etico con tre domande invarianti:
+Each scenario team builds two discursive prototypes: an object the brand could produce in that future and a conversational interface. Prototypes are brought to the Ethical Gate with three invariant questions:
 
-1. Viola un valore radicale?
-2. Introduce pratiche manipolative o estrattive?
-3. Crea dipendenze inaccettabili?
+1. Does it violate a radical value?
+2. Does it introduce manipulative or extractive practices?
+3. Does it create unacceptable dependencies?
 
-I prototipi scartati vengono registrati nel Refusal Register con motivazione.
+Discarded prototypes are registered in the Refusal Register with motivation.
 
-## Output atteso
+## Expected Output
 
-Portfolio di prototipi validati e Refusal Register con le prime voci e la loro motivazione valoriale.
+Portfolio of validated prototypes and Refusal Register with first entries and their value motivation.
+
+---
+
+*Versione italiana: [confrontation-brand-nei-futuri.it.md](./confrontation-brand-nei-futuri.it.md)*

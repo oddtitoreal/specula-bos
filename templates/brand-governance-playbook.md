@@ -1,29 +1,29 @@
 # Brand Governance Playbook — Template
 
-*Struttura condivisibile. Contenuto proprietario.*
+*Shareable structure. Proprietary content.*
 
-Questo template documenta i sei strati del Brand Governance Playbook prodotto dal BOS. La struttura è aperta. Il modo in cui viene popolato con i valori specifici di ogni brand è proprietario.
+This template documents the six layers of the Brand Governance Playbook produced by the BOS. The structure is open. The way it is populated with the specific values of each brand is proprietary.
 
 ---
 
-## 1. DNA Etico
+## 1. Ethical DNA
 
-### Valori radicali
-*Quelli che reggono in tutti gli scenari — non negoziabili anche quando costosi.*
+### Radical values
+*Those that hold across all scenarios — non-negotiable even when costly.*
 
-| Valore | Formulazione operativa | Test di stress (regge nei 3 scenari?) |
+| Value | Operational formulation | Stress test (holds in all 3 scenarios?) |
 |---|---|---|
 | | | |
 
-### Tensioni etiche
-*Dove i valori radicali entrano in conflitto tra loro o con le esigenze operative.*
+### Ethical tensions
+*Where radical values conflict with each other or with operational needs.*
 
-| Tensione | Principio che prevale | Ragione |
+| Tension | Prevailing principle | Reason |
 |---|---|---|
 | | | |
 
 ### Red lines
-*Ciò che il brand non farà mai, indipendentemente dal contesto.*
+*What the brand will never do, regardless of context.*
 
 - 
 - 
@@ -31,58 +31,60 @@ Questo template documenta i sei strati del Brand Governance Playbook prodotto da
 
 ---
 
-## 2. Matrice comportamentale
+## 2. Behavioral Matrix
 
-| Ammesso | Sensibile — richiede review | Vietato |
+| Allowed | Sensitive — requires review | Prohibited |
 |---|---|---|
 | | | |
 
 ---
 
-## 3. Flusso decisionale
+## 3. Decision Flow
 
-*Come il brand prende decisioni coerenti con il DNA etico.*
+*How the brand makes decisions coherent with its ethical DNA.*
 
-1. La decisione tocca un valore radicale? → Se sì, applica il Criterio Unico
-2. Rientra nella zona Sensibile? → Attiva review del Circolo
-3. Rientra nella zona Vietata? → Stop. Registra nel Refusal Register.
-4. Altrimenti → Procedi con documentazione nel Decision Log
+1. Does the decision touch a radical value? → If yes, apply the Single Criterion
+2. Does it fall in the Sensitive zone? → Activate Circle review
+3. Does it fall in the Prohibited zone? → Stop. Register in the Refusal Register.
+4. Otherwise → Proceed with documentation in the Decision Log
 
 ---
 
-## 4. Trigger di escalation umana
+## 4. Human Escalation Triggers
 
-*Quando l'AI non può decidere da sola.*
+*When AI cannot decide alone.*
 
-| Situazione | Chi viene coinvolto | Entro quanto |
+| Situation | Who is involved | Within |
 |---|---|---|
-| Decisione che tocca un valore radicale | Circolo di Sintesi al completo | 48 ore |
-| Alert del Brand Radar sotto soglia critica | Brand Alchemist + responsabile operativo | 24 ore |
-| Segnale di Re-Speculation | Circolo + Specula FC (se in Guardian) | 1 settimana |
+| Decision touching a radical value | Full Synthesis Circle | 48 hours |
+| Brand Radar alert below critical threshold | Brand Alchemist + operational lead | 24 hours |
+| Re-Speculation signal | Circle + Specula FC (if in Guardian) | 1 week |
 
 ---
 
 ## 5. Refusal Register
 
-*Cosa il brand ha scelto deliberatamente di non diventare.*
+*What the brand has deliberately chosen not to become.*
 
-| Data | Item rifiutato | Motivazione | Principio/valore | Rischio evitato | Review date |
+| Date | Refused item | Motivation | Principle/value | Risk avoided | Review date |
 |---|---|---|---|---|---|
 | | | | | | |
 
 ---
 
-## 6. Metriche di integrità
+## 6. Integrity Metrics
 
-*Indicatori che misurano la coerenza tra promessa e comportamento.*
+*Indicators that measure the coherence between promise and behavior.*
 
-| Dimensione | Indicatore | Fonte | Frequenza | Soglia di allerta |
+| Dimension | Indicator | Source | Frequency | Alert threshold |
 |---|---|---|---|---|
-| Coerenza identitaria | | | | |
-| Tensione evolutiva | | | | |
-| Risonanza culturale | | | | |
-| Integrità operativa | | | | |
+| Identity coherence | | | | |
+| Evolutionary tension | | | | |
+| Cultural resonance | | | | |
+| Operational integrity | | | | |
 
 ---
 
-*Questo template fa parte del layer etico aperto del BOS — specula-bos v2.0*
+*Versione italiana: [brand-governance-playbook.it.md](./brand-governance-playbook.it.md)*
+
+*This template is part of the open ethical layer of the BOS — specula-bos v2.0*

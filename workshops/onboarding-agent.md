@@ -1,18 +1,22 @@
-# Onboarding dell'Agent
+# Agent Onboarding
 
 **Layer**: 07 · INTERFACE — Specula Agent  
-**Durata**: 2 ore
+**Duration**: 2 hours
 
 ---
 
-## Obiettivo
+## Objective
 
-Configurare lo Specula Agent con il DNA del brand e testare la qualità del suo supporto decisionale attraverso scenari reali.
+Configure the Specula Agent with the brand's DNA and test the quality of its decision support through real scenarios.
 
-## Come si svolge
+## How It Works
 
-Il team presenta allo Specula Agent cinque decisioni reali affrontate negli ultimi sei mesi. Per ogni decisione valuta: l'Agent avrebbe segnalato coerenza o drift? Con quale motivazione? Le risposte vengono confrontate con le decisioni effettivamente prese. Le divergenze diventano materiale per affinare il prompt e la memoria del sistema.
+The team presents the Specula Agent with five real decisions made in the last six months. For each decision it evaluates: would the Agent have signaled coherence or drift? With what motivation? The responses are compared with the decisions actually made. Divergences become material for refining the prompt and the system memory.
 
-## Output atteso
+## Expected Output
 
-Specula Agent operativo, testato su casi reali e approvato dal Circolo di Sintesi.
+Specula Agent operational, tested on real cases, and approved by the Synthesis Circle.
+
+---
+
+*Versione italiana: [onboarding-agent.it.md](./onboarding-agent.it.md)*

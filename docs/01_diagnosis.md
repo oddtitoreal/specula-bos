@@ -1,28 +1,32 @@
-# La diagnosi
+# The Diagnosis
 
-*La crisi del branding è una crisi di temporalità.*
-
----
-
-La maggior parte dei sistemi di branding è stata progettata per un contesto stabile: mercati che cambiano per cicli lunghi, competitor prevedibili, tecnologie che evolvono su traiettorie note. In quel mondo, un brand poteva permettersi di descrivere il presente e chiamarla strategia.
-
-Oggi il contesto è diverso. Cambiamenti culturali, tecnologici ed economici avvengono simultaneamente e si influenzano a vicenda in modi che nessun modello lineare può anticipare. Il brand che descrive il presente lo fa sempre in ritardo. La reattività, che sembrava agilità, è diventata una forma di cecità strutturale.
+*The branding crisis is a crisis of temporality.*
 
 ---
 
-## Come può un brand rimanere coerente mentre il mondo cambia radicalmente?
+Most branding systems were designed for a stable context: markets that change in long cycles, predictable competitors, technologies evolving along known trajectories. In that world, a brand could afford to describe the present and call it strategy.
 
-La risposta non è ottimizzare il presente. Non è nemmeno predire il futuro. È progettare l'identità del brand a partire dai futuri possibili, costruendo un sistema capace di restare riconoscibile attraverso scenari radicalmente diversi. Specula Future Crafting produce questo sistema. Lo chiama Brand Operating System.
+Today the context is different. Cultural, technological, and economic changes occur simultaneously and influence each other in ways no linear model can anticipate. The brand that describes the present is always late. Reactivity, which once seemed like agility, has become a form of structural blindness.
 
 ---
 
-## Branding tradizionale vs. Brand Operating System
+## How can a brand remain coherent while the world changes radically?
 
-| Branding tradizionale | Brand Operating System |
+The answer is not to optimize the present. Nor is it to predict the future. It is to design brand identity starting from possible futures, building a system capable of remaining recognizable across radically different scenarios. Specula Future Crafting produces this system. It calls it the Brand Operating System.
+
+---
+
+## Traditional Branding vs. Brand Operating System
+
+| Traditional Branding | Brand Operating System |
 |---|---|
-| Linee guida statiche | Sistema evolutivo |
-| Campagna come unità di misura | Coerenza attraverso scenari |
-| Revisione periodica | Monitoraggio continuo |
-| Reazione ai trend | Anticipazione dei futuri |
-| Identità come documento | Identità come infrastruttura |
-| Brief come punto di partenza neutro | Brief rimodulato dal DNA valoriale |
+| Static guidelines | Evolutionary system |
+| Campaign as unit of measure | Coherence across scenarios |
+| Periodic revision | Continuous monitoring |
+| Reaction to trends | Anticipation of futures |
+| Identity as document | Identity as infrastructure |
+| Brief as neutral starting point | Brief modulated by value DNA |
+
+---
+
+*Versione italiana: [01_diagnosis.it.md](./01_diagnosis.it.md)*

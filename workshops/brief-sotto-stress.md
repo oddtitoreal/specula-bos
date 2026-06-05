@@ -1,18 +1,22 @@
-# Il brief sotto stress
+# The Brief Under Stress
 
-**Layer**: Principio del brief rimodulato  
-**Durata**: 90 minuti
+**Layer**: Modulated Brief Principle  
+**Duration**: 90 minutes
 
 ---
 
-## Obiettivo
+## Objective
 
-Portare alla luce le assunzioni valoriali implicite nel brief di progetto prima che diventi mandato operativo.
+Surface the implicit value assumptions in the project brief before it becomes an operational mandate.
 
-## Come si svolge
+## How It Works
 
-Il facilitatore presenta il brief esistente al Circolo di Sintesi. Ciascun partecipante legge il documento con la propria lente disciplinare e annota le assunzioni non dichiarate. Il gruppo costruisce una mappa delle tensioni: cosa il brief dà per scontato su utenti, tecnologia, valori, confini del sistema. Ogni tensione diventa una domanda HMW che orienta la riscrittura.
+The facilitator presents the existing brief to the Synthesis Circle. Each participant reads the document through their own disciplinary lens and notes undeclared assumptions. The group builds a map of tensions: what the brief takes for granted about users, technology, values, and system boundaries. Each tension becomes a HMW question that guides the rewrite.
 
-## Output atteso
+## Expected Output
 
-Brief rimodulato con assunzioni valoriali esplicite e criteri decisionali dichiarati.
+Modulated brief with explicit value assumptions and declared decision criteria.
+
+---
+
+*Versione italiana: [brief-sotto-stress.it.md](./brief-sotto-stress.it.md)*

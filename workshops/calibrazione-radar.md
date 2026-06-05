@@ -1,18 +1,22 @@
-# Calibrazione del Radar
+# Radar Calibration
 
 **Layer**: 06 · GOVERNANCE — Brand Radar + Guardian  
-**Durata**: 2 ore
+**Duration**: 2 hours
 
 ---
 
-## Obiettivo
+## Objective
 
-Definire gli assi del Brand Radar e le soglie di allerta specifici per il brand, traducendo i valori radicali in indicatori misurabili.
+Define the Brand Radar axes and alert thresholds specific to the brand, translating radical values into measurable indicators.
 
-## Come si svolge
+## How It Works
 
-Il team identifica cinque dimensioni chiave su cui misurare la coerenza del brand. Per ogni dimensione definisce: l'indicatore, la fonte del dato, la frequenza di rilevazione e la soglia di allerta. Si calibra anche il protocollo di escalation: cosa succede quando un indicatore scende sotto soglia, chi viene coinvolto e in quanto tempo.
+The team identifies five key dimensions on which to measure brand coherence. For each dimension it defines: the indicator, the data source, the detection frequency, and the alert threshold. The escalation protocol is also calibrated: what happens when an indicator falls below threshold, who is involved, and how quickly.
 
-## Output atteso
+## Expected Output
 
-Brand Radar personalizzato con assi, indicatori, soglie e protocollo di escalation.
+Personalized Brand Radar with axes, indicators, thresholds, and escalation protocol.
+
+---
+
+*Versione italiana: [calibrazione-radar.it.md](./calibrazione-radar.it.md)*

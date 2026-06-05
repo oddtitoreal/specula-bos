@@ -1,45 +1,47 @@
 # BOS Documentation Index
 
-## Brand Operating System — Mappa della documentazione
+## Brand Operating System — Documentation Map
 
 ---
 
-## Struttura del documento architetturale
+## Architectural Document
 
-| # | Documento | Contenuto |
+| # | Document | Content |
 |---|---|---|
-| I | [La diagnosi](./01_diagnosis.md) | La crisi del branding come crisi di temporalità. Perché le linee guida statiche non bastano più. |
-| II | [Il principio e la promessa](./02_principle-promise.md) | VEDERE · SCEGLIERE · RESTARE. Il principio del brief rimodulato. |
-| III | [L'architettura dei 7 layer](./03_seven-layers.md) | WORLD → FUTURES → IDENTITY → EXPLORATION → STRATEGY → GOVERNANCE → INTERFACE |
-| IV | [Il Circolo di Sintesi](./04_circolo-di-sintesi.md) | L'organo vivente di governance. Composizione, mandato, ritualità. |
-| V | [Memory Architecture](./05_memory-architecture.md) | I 5 domini di memoria. Come il BOS trasforma da framework a sistema. |
-| VI | [La vita del sistema nel tempo](./06_system-lifecycle.md) | Brand Radar, Guardian Loop, Re-Speculation, modelli di ingaggio. |
-| VII | [Il layer etico aperto](./07_open-ethical-layer.md) | Aperto vs. proprietario. La matrice comportamentale come bene comune. |
-| VIII | [Definition of Done](./08_definition-of-done.md) | Il contratto operativo. Criteri di autonomia del cliente. |
+| I | [The Diagnosis](./01_diagnosis.md) | The branding crisis as a crisis of temporality. Why static guidelines are no longer enough. |
+| II | [The Principle and the Promise](./02_principle-promise.md) | SEE · CHOOSE · REMAIN. The modulated brief principle. |
+| III | [The Seven-Layer Architecture](./03_seven-layers.md) | WORLD → FUTURES → IDENTITY → EXPLORATION → STRATEGY → GOVERNANCE → INTERFACE |
+| IV | [The Synthesis Circle](./04_circolo-di-sintesi.md) | The living governance body. Composition, mandate, rituals. |
+| V | [Memory Architecture](./05_memory-architecture.md) | The 5 memory domains. How the BOS transforms from framework to system. |
+| VI | [The System's Life Over Time](./06_system-lifecycle.md) | Brand Radar, Guardian Loop, Re-Speculation, engagement models. |
+| VII | [The Open Ethical Layer](./07_open-ethical-layer.md) | Open vs. proprietary. The behavioral matrix as a common good. |
+| VIII | [Definition of Done](./08_definition-of-done.md) | The operational contract. Client autonomy criteria. |
+
+Italian versions: [00_index.it.md](./00_index.it.md) and all corresponding `.it.md` files.
 
 ---
 
-## Workshop per layer
+## Workshops by Layer
 
-| Layer | Workshop | Durata |
+| Layer | Workshop | Duration |
 |---|---|---|
-| Principio | [Il brief sotto stress](../workshops/brief-sotto-stress.md) | 90 min |
-| 01 WORLD | [Mappa dei segnali deboli](../workshops/mappa-segnali-deboli.md) | 3 ore |
-| 02 FUTURES | [Worldbuilding collaborativo](../workshops/worldbuilding-collaborativo.md) | 4 ore |
-| 03 IDENTITY | [Archeologia del brand](../workshops/archeologia-brand.md) | 3 ore + 1 ora AI |
-| 04 EXPLORATION | [Confrontation: il brand nei futuri](../workshops/confrontation-brand-nei-futuri.md) | 4 ore |
-| 05 STRATEGY | [Dal prototipo al protocollo](../workshops/dal-prototipo-al-protocollo.md) | 3 ore |
-| 06 GOVERNANCE | [Calibrazione del Radar](../workshops/calibrazione-radar.md) | 2 ore |
-| 07 INTERFACE | [Onboarding dell'Agent](../workshops/onboarding-agent.md) | 2 ore |
-| Memory | [Audit della memoria](../workshops/audit-memoria.md) | 2 ore · trimestrale |
-| Ethical | [Costruire la matrice comportamentale](../workshops/matrice-comportamentale.md) | 3 ore · annuale |
+| Principle | [The Brief Under Stress](../workshops/brief-sotto-stress.md) | 90 min |
+| 01 WORLD | [Weak Signals Map](../workshops/mappa-segnali-deboli.md) | 3 hours |
+| 02 FUTURES | [Collaborative Worldbuilding](../workshops/worldbuilding-collaborativo.md) | 4 hours |
+| 03 IDENTITY | [Brand Archaeology](../workshops/archeologia-brand.md) | 3 hours + 1 hour AI |
+| 04 EXPLORATION | [Confrontation: The Brand in Futures](../workshops/confrontation-brand-nei-futuri.md) | 4 hours |
+| 05 STRATEGY | [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) | 3 hours |
+| 06 GOVERNANCE | [Radar Calibration](../workshops/calibrazione-radar.md) | 2 hours |
+| 07 INTERFACE | [Agent Onboarding](../workshops/onboarding-agent.md) | 2 hours |
+| Memory | [Memory Audit](../workshops/audit-memoria.md) | 2 hours · quarterly |
+| Ethical | [Building the Behavioral Matrix](../workshops/matrice-comportamentale.md) | 3 hours · annual |
 
 ---
 
-## Come leggere questo repo
+## How to Read This Repo
 
-**Se sei un pratitioner Specula** che deve costruire un BOS per un cliente: inizia dal [principio](./02_principle-promise.md), poi leggi i [7 layer](./03_seven-layers.md) e usa i [workshop](../workshops/) come guide operative.
+**If you are a Specula practitioner** building a BOS for a client: start with the [principle](./02_principle-promise.md), then read the [7 layers](./03_seven-layers.md) and use the [workshops](../workshops/) as operational guides.
 
-**Se sei un'organizzazione** che sta valutando il BOS: leggi la [diagnosi](./01_diagnosis.md), poi la [Definition of Done](./08_definition-of-done.md) per capire a cosa ti impegni.
+**If you are an organization** evaluating the BOS: read the [diagnosis](./01_diagnosis.md), then the [Definition of Done](./08_definition-of-done.md) to understand what you are committing to.
 
-**Se sei un ricercatore o un designer**: il [layer etico aperto](./07_open-ethical-layer.md) e la [Memory Architecture](./05_memory-architecture.md) sono i punti più originali del sistema.
+**If you are a researcher or designer**: the [open ethical layer](./07_open-ethical-layer.md) and [Memory Architecture](./05_memory-architecture.md) are the most original parts of the system.

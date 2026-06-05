@@ -1,22 +1,26 @@
-# Archeologia del brand
+# Brand Archaeology
 
 **Layer**: 03 · IDENTITY — Brand Core  
-**Durata**: 3 ore + 1 ora analisi AI
+**Duration**: 3 hours + 1 hour AI analysis
 
 ---
 
-## Obiettivo
+## Objective
 
-Separare i valori radicali dai valori contingenti attraverso un processo di stress test narrativo.
+Separate radical values from contingent values through a narrative stress-test process.
 
-## Come si svolge
+## How It Works
 
-**Fase 1**: il gruppo raccoglie le tracce del brand — comunicazioni passate, decisioni storiche, compromessi taciuti. L'AI analizza il corpus per individuare archetipi ricorrenti e incoerenze tra valori dichiarati e comportamenti.
+**Phase 1**: the group collects brand traces — past communications, historical decisions, unspoken compromises. AI analyzes the corpus to identify recurring archetypes and inconsistencies between declared values and behaviors.
 
-**Fase 2 — Value Stress Test**: ogni valore dichiarato viene proiettato nei tre scenari. I valori che reggono in tutti gli scenari sono radicali; quelli che si spezzano sono fragili o contingenti.
+**Phase 2 — Value Stress Test**: each declared value is projected into the three scenarios. Values that hold across all scenarios are radical; those that break are fragile or contingent.
 
-**Fase 3**: il Circolo di Sintesi delibera sulle tensioni etiche emerse e definisce le red lines.
+**Phase 3**: the Synthesis Circle deliberates on the ethical tensions that emerged and defines the red lines.
 
-## Output atteso
+## Expected Output
 
-Speculative Brand DNA con valori classificati e red lines esplicite.
+Speculative Brand DNA with classified values and explicit red lines.
+
+---
+
+*Versione italiana: [archeologia-brand.it.md](./archeologia-brand.it.md)*

@@ -1,18 +1,22 @@
-# Worldbuilding collaborativo
+# Collaborative Worldbuilding
 
 **Layer**: 02 · FUTURES — Scenario Engine  
-**Durata**: 4 ore
+**Duration**: 4 hours
 
 ---
 
-## Obiettivo
+## Objective
 
-Costruire tre scenari divergenti a partire dai driver identificati nel Signal Scan, rendendoli concreti attraverso vignette di vita quotidiana.
+Build three divergent scenarios from the drivers identified in the Signal Scan, making them concrete through everyday life vignettes.
 
-## Come si svolge
+## How It Works
 
-Il facilitatore presenta la matrice dei driver. Il gruppo si divide in tre team, ognuno assegnato a uno scenario. Ogni team scrive una *day in the life* di un utente tipo in quello scenario al 2030, identifica tre headline di giornale plausibili e definisce gli indicatori di materializzazione. I tre team si presentano reciprocamente, poi insieme identificano i white spaces: futuri che nessun competitor sta presidiando in modo credibile.
+The facilitator presents the driver matrix. The group splits into three teams, each assigned to one scenario. Each team writes a *day in the life* of a typical user in that scenario in 2030, identifies three plausible newspaper headlines, and defines materialization indicators. The three teams present to each other, then together identify white spaces: futures no competitor is credibly occupying.
 
-## Output atteso
+## Expected Output
 
-Tre scenari completi con vignette, headline, indicatori e mappa dei white spaces.
+Three complete scenarios with vignettes, headlines, indicators, and a white spaces map.
+
+---
+
+*Versione italiana: [worldbuilding-collaborativo.it.md](./worldbuilding-collaborativo.it.md)*

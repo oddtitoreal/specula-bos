@@ -1,85 +1,89 @@
-# L'architettura dei sette layer
+# The Seven-Layer Architecture
 
 `WORLD → FUTURES → IDENTITY → EXPLORATION → STRATEGY → GOVERNANCE → INTERFACE`
 
 ---
 
-Il BOS è organizzato come un sistema continuo composto da sette layer sequenziali, attraversati da una cornice etica trasversale. I layer non sono fasi da eseguire in ordine e dimenticare: sono strati ontologici del sistema, ognuno dei quali alimenta il successivo e riceve feedback da tutti gli altri.
+The BOS is organized as a continuous system composed of seven sequential layers, traversed by a cross-cutting ethical frame. The layers are not phases to execute in order and forget: they are ontological strata of the system, each feeding the next and receiving feedback from all others.
 
 ---
 
-## ETHICAL FRAME — Trasversale a tutti i layer
+## ETHICAL FRAME — Cross-cutting across all layers
 
-L'Ethical Frame non è un filtro che si applica alla fine del processo. È una struttura presente in ogni layer: ogni output generato viene valutato rispetto al Brand DNA prima di diventare input per il layer successivo.
+The Ethical Frame is not a filter applied at the end of the process. It is a structure present in every layer: every output generated is evaluated against the Brand DNA before becoming input for the next layer.
 
-**Componenti**: Immutable Values · Ethical Gate · Refusal Register
+**Components**: Immutable Values · Ethical Gate · Refusal Register
 
 ---
 
 ## 01 · WORLD — Signal Scan
 
-Il layer di apertura non cerca conferme: cerca anomalie. Segnali deboli, tensioni culturali sotterranee, discontinuità emergenti in domini apparentemente non correlati. L'AI lavora come sistema di pattern detection su scala globale. Il team umano porta l'interpretazione culturale che nessun modello può sostituire.
+The opening layer does not seek confirmation: it seeks anomalies. Weak signals, underground cultural tensions, emerging discontinuities in apparently unrelated domains. AI works as a pattern detection system at global scale. The human team brings the cultural interpretation that no model can replace.
 
 **Output**: Weak Signals Map · Driver clusters · Implication chains
 
-*Vai al workshop: [Mappa dei segnali deboli](../workshops/mappa-segnali-deboli.md) — 3 ore*
+*Workshop: [Weak Signals Map](../workshops/mappa-segnali-deboli.md) — 3 hours*
 
 ---
 
 ## 02 · FUTURES — Scenario Engine
 
-I segnali diventano scenari. Non previsioni, non proiezioni lineari: mondi divergenti costruiti combinando driver in tensione tra loro. Ogni scenario ha una sua logica interna, una sua quotidianità, un suo effetto sulla vita delle persone che il brand vuole raggiungere.
+Signals become scenarios. Not forecasts, not linear projections: divergent worlds built by combining drivers in tension with each other. Each scenario has its own internal logic, its own everyday life, its own effect on the lives of the people the brand wants to reach.
 
-**Output**: 3–4 Scenari divergenti in formato daily-life · Headline · Indicatori di materializzazione
+**Output**: 3–4 divergent scenarios in daily-life format · Headline · Materialization indicators
 
-*Vai al workshop: [Worldbuilding collaborativo](../workshops/worldbuilding-collaborativo.md) — 4 ore*
+*Workshop: [Collaborative Worldbuilding](../workshops/worldbuilding-collaborativo.md) — 4 hours*
 
 ---
 
 ## 03 · IDENTITY — Brand Core
 
-Il layer più delicato del sistema. L'Archeologia del Brand non descrive l'identità: la mette sotto stress. Separa ciò che è strutturale da ciò che è contingente. I valori radicali vengono distinti dai valori fragili. Il risultato è il Speculative Brand DNA: la bussola per tutto il processo.
+The most delicate layer of the system. Brand Archaeology does not describe identity: it puts it under stress. It separates what is structural from what is contingent. Radical values are distinguished from fragile values. The result is the Speculative Brand DNA: the compass for the entire process.
 
 **Output**: Speculative Brand DNA · Immutable Values · Ethical Tensions · Fragile Values
 
-*Vai al workshop: [Archeologia del brand](../workshops/archeologia-brand.md) — 3 ore + 1 ora analisi AI*
+*Workshop: [Brand Archaeology](../workshops/archeologia-brand.md) — 3 hours + 1 hour AI analysis*
 
 ---
 
 ## 04 · EXPLORATION — Speculative Prototyping
 
-Il brand viene messo dentro i futuri. Prototipi discorsivi, artefatti speculativi, storyboard di servizio che mostrano cosa il brand diventerebbe in ciascuno scenario. L'Ethical Gate filtra ogni prototipo rispetto al DNA. Ciò che viene scartato alimenta il Refusal Register: nel tempo diventa parte dell'identità tanto quanto ciò che viene scelto.
+The brand is placed inside the futures. Discursive prototypes, speculative artifacts, service storyboards showing what the brand would become in each scenario. The Ethical Gate filters every prototype against the DNA. What gets discarded feeds the Refusal Register: over time it becomes part of the identity as much as what is chosen.
 
-**Output**: Artefatti discorsivi · Ethical Gate outputs · Refusal Register (prima versione)
+**Output**: Discursive artifacts · Ethical Gate outputs · Refusal Register (first version)
 
-*Vai al workshop: [Confrontation: il brand nei futuri](../workshops/confrontation-brand-nei-futuri.md) — 4 ore*
+*Workshop: [Confrontation: The Brand in Futures](../workshops/confrontation-brand-nei-futuri.md) — 4 hours*
 
 ---
 
 ## 05 · STRATEGY — Strategic Protocol
 
-I prototipi validati diventano direzione. Questo layer non produce un piano operativo: produce un protocollo, un insieme di principi decisionali che il brand userà per orientarsi quando le condizioni cambiano. Un piano diventa obsoleto appena cambia il contesto. Un protocollo resta valido proprio perché non prescrive azioni specifiche, ma criteri di scelta.
+Validated prototypes become direction. This layer does not produce an operational plan: it produces a protocol, a set of decision principles the brand will use to orient itself when conditions change. A plan becomes obsolete as soon as the context changes. A protocol remains valid precisely because it does not prescribe specific actions, but criteria for choice.
 
-**Output**: Strategic Protocol · Narrative Synthesis · Experiment Roadmap 30/60/90 giorni
+**Output**: Strategic Protocol · Narrative Synthesis · Experiment Roadmap 30/60/90 days
 
-*Vai al workshop: [Dal prototipo al protocollo](../workshops/dal-prototipo-al-protocollo.md) — 3 ore*
+*Workshop: [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) — 3 hours*
 
 ---
 
 ## 06 · GOVERNANCE — Brand Radar + Guardian
 
-Il layer che trasforma il BOS da progetto a sistema permanente. Il Brand Radar monitora la coerenza tra identità e azioni nel tempo. Lo Specula Guardian rileva i drift narrativi prima che diventino crisi. Quando i segnali divergono dagli scenari di riferimento per due cicli consecutivi, il sistema segnala la necessità di Re-Speculation: non si riparte da zero, ma si rientra nel layer più vicino all'origine del problema.
+The layer that transforms the BOS from project to permanent system. The Brand Radar monitors the coherence between identity and actions over time. The Specula Guardian detects narrative drift before it becomes a crisis. When signals diverge from reference scenarios for two consecutive cycles, the system signals the need for Re-Speculation: you do not start from scratch, but re-enter at the layer closest to the origin of the problem.
 
-**Output**: Brand Radar dashboard · Guardian Report mensile/trimestrale · Re-Speculation trigger
+**Output**: Brand Radar dashboard · Guardian Report monthly/quarterly · Re-Speculation trigger
 
-*Vai al workshop: [Calibrazione del Radar](../workshops/calibrazione-radar.md) — 2 ore*
+*Workshop: [Radar Calibration](../workshops/calibrazione-radar.md) — 2 hours*
 
 ---
 
 ## 07 · INTERFACE — Specula Agent
 
-Il punto di contatto quotidiano tra il sistema e il team. Lo Specula Agent non è un chatbot: è un interlocutore strategico che ha accesso a tutta la memoria del sistema e aiuta il team a restare coerente con il futuro che ha scelto di costruire. Tutte le decisioni strategiche restano umane. L'Agent amplifica, non sostituisce.
+The daily point of contact between the system and the team. The Specula Agent is not a chatbot: it is a strategic interlocutor with access to the entire system memory, helping the team stay coherent with the future it has chosen to build. All strategic decisions remain human. The Agent amplifies, it does not replace.
 
-**Output**: Specula Agent configurato · Prompt architecture · Onboarding del team
+**Output**: Configured Specula Agent · Prompt architecture · Team onboarding
 
-*Vai al workshop: [Onboarding dell'Agent](../workshops/onboarding-agent.md) — 2 ore*
+*Workshop: [Agent Onboarding](../workshops/onboarding-agent.md) — 2 hours*
+
+---
+
+*Versione italiana: [03_seven-layers.it.md](./03_seven-layers.it.md)*
