@@ -58,7 +58,8 @@ specula-bos/
 │   ├── 05_memory-architecture.md — La memoria come strato cognitivo
 │   ├── 06_system-lifecycle.md    — La vita del sistema nel tempo
 │   ├── 07_open-ethical-layer.md  — Il layer etico aperto
-│   └── 08_definition-of-done.md  — Il contratto operativo
+│   ├── 08_definition-of-done.md  — Il contratto operativo
+│   └── 09_agent-experience.md    — BOS come layer valoriale per gli agenti AI (AX)
 ├── workshops/
 │   ├── brief-sotto-stress.md
 │   ├── mappa-segnali-deboli.md
@@ -78,7 +79,7 @@ specula-bos/
 
 ## Versione
 
-**v2.0** · Documento architetturale completo  
+**v2.1.0** · Documento architetturale completo + HMW Protocol + Agent Experience  
 Framework: Specula v2.4.5 · [oddtitoreal](https://github.com/oddtitoreal)
 
 ---
