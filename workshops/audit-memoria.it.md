@@ -17,9 +17,11 @@ Il Brand Alchemist convoca il Circolo ogni trimestre per una revisione della mem
 - Ci sono incoerenze tra Brand Memory e Decision Memory?
 - Il Refusal Register riflette scelte ancora valide?
 - Il Context Memory segnala segnali che richiedono di aggiornare gli scenari?
+- Per le decisioni arrivate alla data di revisione, la Decision Memory registra l'effetto osservato accanto a quello atteso?
+- Le derive del trimestre sono classificate (errore, modello superato, apprendimento) con la regola usata?
 
 L'audit produce un report sintetico con le azioni di aggiornamento necessarie.
 
 ## Output atteso
 
-Memory Audit Report con stato dei cinque domini, incoerenze rilevate e piano di aggiornamento.
+Memory Audit Report con stato dei cinque domini, incoerenze rilevate, criteri da rivedere e piano di aggiornamento.

@@ -18,6 +18,10 @@ This is not a commercial exit criterion. It is the declaration of a relational e
 
 ---
 
+After the mandate, the Guardian model offers a periodic external review. It presupposes the autonomy achieved: the client governs the BOS, and the Guardian checks how it holds, bringing the external view that is missing from inside.
+
+---
+
 ## Negotiable Criteria — Possible Examples
 
 These criteria are not part of the manifesto. They are verification tools that the Synthesis Circle and Specula Future Crafting agree on together at the start of the journey, selecting the ones most relevant for the specific context. Not all need to be satisfied: the selection itself is an act of governance.

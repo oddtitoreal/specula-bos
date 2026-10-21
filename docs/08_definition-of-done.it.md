@@ -18,6 +18,10 @@ Questo non è un criterio di uscita commerciale. È la dichiarazione di un'etica
 
 ---
 
+Dopo il mandato, il modello Guardian offre una revisione esterna periodica. Presuppone l'autonomia raggiunta: il cliente governa il BOS, il Guardian ne verifica la tenuta e porta lo sguardo esterno che dall'interno manca.
+
+---
+
 ## Criteri negoziabili — esempi possibili
 
 Questi criteri non sono parte del manifesto. Sono strumenti di verifica che il Circolo di Sintesi e Specula Future Crafting concordano insieme all'inizio del percorso, selezionando quelli più rilevanti per il contesto specifico. Non tutti devono essere soddisfatti: la selezione è essa stessa un atto di governance.

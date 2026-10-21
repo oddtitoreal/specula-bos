@@ -19,6 +19,24 @@ Ogni tensione diventa una domanda **How Might We** che orienta la riscrittura.
 
 ---
 
+## Prima della sessione
+
+Uno o più incontri preliminari con chi ha il mandato preparano il workshop.
+
+**La scheda di soglia.** Per ciascuna delle tre condizioni si registra un'evidenza osservabile:
+
+- **Crisi riconosciuta**: l'organizzazione nomina la crisi in un documento interno. Quasi ogni organizzazione vive dentro una crisi strutturale; conta che questa riconosca la propria.
+- **Mandato reale**: chi firma decide su brand e budget e partecipa al processo.
+- **Disponibilità a sottrarre**: il cliente indica in anticipo cosa è disposto a togliere.
+
+La scheda si archivia per ogni ingaggio, anche per quelli che non partono.
+
+**L'esercizio d'apertura.** Quanto era diversa l'organizzazione dieci anni fa, e quanto potrebbe esserlo tra dieci. Le persone tendono a pensare di cambiare in futuro meno di quanto siano cambiate in passato: l'esercizio rende visibile questo scarto prima di lavorare sugli scenari.
+
+**Le regole di parola.** Quando chi decide siede nel gruppo, i contributi si raccolgono per iscritto prima della discussione, anche in forma anonima, e chi ha il mandato parla per ultimo.
+
+---
+
 ## Il protocollo HMW — versione speculativa
 
 Le domande How Might We nel design thinking aprono lo spazio delle soluzioni. In Specula, fanno qualcosa di diverso: **aprono lo spazio di ciò che vale la pena progettare** prima che venga proposta qualsiasi soluzione.
@@ -65,9 +83,11 @@ Il ruolo del facilitatore è cruciale: spingere il gruppo a resistere alla trazi
 
 > **Test per una buona HMW speculativa**: Mette qualcuno a disagio? Rende il cliente leggermente nervoso? Apre uno spazio che nessun competitor sta presidiando? Se sì, tienila.
 
-### Step 4 — Riscrittura del brief (20 min)
+### Step 4 — Riscrittura del brief e consenso (20 min)
 
 Il Circolo di Sintesi seleziona 2–3 HMW speculative che sfidano più produttivamente il brief originale. Il facilitatore riscrive il mandato incorporando queste tensioni esplicitamente — non come problemi da risolvere, ma come campo generativo entro cui il progetto opererà.
+
+La sessione si chiude con un consenso scritto su tre punti: la **domanda di ricerca** che guiderà segnali e scenari, la **finestra temporale** su cui si lavora, le **regole di lavoro** del gruppo. Il consenso entra nella Brand Memory insieme al brief rimodulato.
 
 ---
 
@@ -78,6 +98,8 @@ Brief rimodulato con:
 - Tensioni nominate (le scelte non deliberate ora rese visibili)
 - 2–3 domande HMW speculative che definiscono il campo generativo
 - Mandato rivisto che incorpora il nuovo frame
+- Consenso scritto su tre punti: domanda di ricerca, finestra temporale, regole di lavoro
+- Scheda di soglia compilata
 
 ---
 

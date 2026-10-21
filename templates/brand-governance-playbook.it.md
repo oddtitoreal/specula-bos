@@ -11,7 +11,7 @@ Questo template documenta i sei strati del Brand Governance Playbook prodotto da
 ### Valori radicali
 *Quelli che reggono in tutti gli scenari — non negoziabili anche quando costosi.*
 
-| Valore | Formulazione operativa | Test di stress (regge nei 3 scenari?) |
+| Valore | Formulazione operativa | Test di stress (regge nei 4 scenari?) |
 |---|---|---|
 | | | |
 
@@ -48,6 +48,12 @@ Questo template documenta i sei strati del Brand Governance Playbook prodotto da
 3. Rientra nella zona Vietata? → Stop. Registra nel Refusal Register.
 4. Altrimenti → Procedi con documentazione nel Decision Log
 
+**Decision Log**: ogni decisione registra il criterio applicato, l'effetto atteso e la data di revisione. I criteri sono ipotesi: alla data di revisione si confronta l'effetto atteso con quello osservato.
+
+| Data | Decisione | Criterio applicato | Effetto atteso | Data di revisione | Effetto osservato |
+|---|---|---|---|---|---|
+| | | | | | |
+
 ---
 
 ## 4. Trigger di escalation umana
@@ -59,6 +65,15 @@ Questo template documenta i sei strati del Brand Governance Playbook prodotto da
 | Decisione che tocca un valore radicale | Circolo di Sintesi al completo | 48 ore |
 | Alert del Brand Radar sotto soglia critica | Brand Alchemist + responsabile operativo | 24 ore |
 | Segnale di Re-Speculation | Circolo + Specula FC (se in Guardian) | 1 settimana |
+| Combinazione di indicatori in allerta | Brand Alchemist + Circolo | Tarato sulla velocità dei segnali |
+
+**Classificazione delle derive**: ogni deriva rilevata riceve una classe e la regola che l'ha prodotta.
+
+| Classe | Regola | Azione |
+|---|---|---|
+| Errore | Viola una red line | Correzione |
+| Modello superato | Il mondo osservato esce da tutti gli scenari | Re-Speculation |
+| Apprendimento | Ripetuta, spontanea, diffusa; nessuna red line violata | Il Circolo delibera sulla revisione del criterio |
 
 ---
 
@@ -85,4 +100,4 @@ Questo template documenta i sei strati del Brand Governance Playbook prodotto da
 
 ---
 
-*Questo template fa parte del layer etico aperto del BOS — specula-bos v2.0*
+*Questo template fa parte del layer etico aperto del BOS · specula-bos v2.2*

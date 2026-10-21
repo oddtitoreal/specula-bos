@@ -17,12 +17,14 @@ The Brand Alchemist convenes the Circle each quarter for a memory review. For ea
 - Are there inconsistencies between Brand Memory and Decision Memory?
 - Does the Refusal Register reflect choices that are still valid?
 - Does Context Memory signal signals that require updating the scenarios?
+- For decisions that have reached their review date, does Decision Memory record the observed effect next to the expected one?
+- Are this quarter's drifts classified (error, superseded model, learning) with the rule applied?
 
 The audit produces a concise report with the necessary update actions.
 
 ## Expected Output
 
-Memory Audit Report with the status of the five domains, detected inconsistencies, and update plan.
+Memory Audit Report with the status of the five domains, detected inconsistencies, criteria to review, and update plan.
 
 ---
 

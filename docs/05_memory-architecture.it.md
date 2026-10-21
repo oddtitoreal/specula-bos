@@ -19,7 +19,7 @@ Conserva gli scenari generati, i driver che li hanno prodotti, gli indicatori di
 Il DNA speculativo del brand: valori radicali, tensioni etiche, archetipi ricorrenti, evoluzione narrativa. È la bussola interna del sistema, il criterio rispetto al quale ogni output viene valutato prima di procedere al layer successivo.
 
 ### Decision Memory
-L'archivio delle scelte strategiche prese, con motivazione, contesto e indicatori di risultato. Permette al Guardian di rilevare se le decisioni attuali sono coerenti con quelle passate o segnalano un drift silenzioso.
+L'archivio delle scelte strategiche prese, il Decision Log del sistema. Per ogni decisione registra il criterio applicato, la motivazione, il contesto, l'effetto atteso e la data di revisione; alla revisione, l'effetto osservato. Permette al Guardian di confrontare effetti attesi e osservati, e di rilevare se le decisioni attuali sono coerenti con quelle passate o segnalano un drift silenzioso.
 
 ### Refusal Memory
 Il Refusal Register nel tempo: tutto ciò che il brand ha scelto deliberatamente di non diventare, con la motivazione valoriale e il rischio evitato. Nel tempo questo archivio diventa parte dell'identità quanto le scelte attive.

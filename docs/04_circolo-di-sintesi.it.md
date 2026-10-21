@@ -36,6 +36,23 @@ Il Brand Alchemist può essere portato da Specula Future Crafting nelle fasi ini
 
 ---
 
+## Funzioni, regole di decisione e disaccordo
+
+Il [Governance Charter](https://github.com/oddtitoreal/specula-framework/blob/main/docs/15_circolo_di_sintesi_governance.md) di `specula-framework` è la fonte canonica delle regole del Circolo. Qui se ne riporta l'essenziale.
+
+**Cinque funzioni da coprire**: Governance Architect, Brand Strategist, Ethics Reviewer, Community Advocate, External Auditor. Il Community Advocate rappresenta le persone a cui il brand si rivolge ed è il contrappeso alla scelta di affidare i valori al Circolo. L'External Auditor è esterno al progetto e ha un veto sospensivo di 72 ore. In un Circolo di quattro persone una persona può coprire due funzioni; Community Advocate ed External Auditor hanno sempre titolari distinti.
+
+**Regole di voto**: unanimità per modificare i valori radicali e per ammettere o rimuovere un membro; maggioranza qualificata per far avanzare una fase con l'Ethical Gate in HOLD, per rispondere a una deriva critica e per entrare in settori non previsti; maggioranza semplice per l'approvazione ordinaria degli artefatti.
+
+**Disaccordo sui valori.** Davanti agli stessi dati, membri con discipline diverse possono leggere i valori in modi diversi: il disaccordo è un dato da trattare con regole.
+
+1. Ogni posizione si registra per iscritto prima della discussione, con le evidenze che la sostengono. Chi ha il mandato decisionale parla per ultimo.
+2. Il Brand Alchemist propone una sintesi seguendo tre regole scritte: privilegia la formulazione che regge in più scenari; a parità, quella sostenuta da più decisioni documentate; se la tensione resta, la registra come tensione nota invece di sceglierne un polo.
+3. Se la sintesi non raccoglie la maggioranza richiesta, la decisione viene sospesa e rimessa alla community come parere non vincolante; il Circolo ha altri 14 giorni per deliberare.
+4. Le posizioni di minoranza restano nel Decision Log.
+
+---
+
 ## Mandato e ritualità
 
 Il Circolo non si riunisce quando c'è un problema. Si riunisce secondo una ritualità definita, indipendentemente dall'urgenza percepita. Sono questi i momenti in cui il sistema riflette su se stesso prima che la deriva diventi crisi.

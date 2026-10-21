@@ -18,7 +18,7 @@ The Ethical Frame is not a filter applied at the end of the process. It is a str
 
 ## 01 · WORLD — Signal Scan
 
-The opening layer does not seek confirmation: it seeks anomalies. Weak signals, underground cultural tensions, emerging discontinuities in apparently unrelated domains. AI works as a pattern detection system at global scale. The human team brings the cultural interpretation that no model can replace.
+The opening layer does not seek confirmation: it seeks anomalies. Weak signals, underground cultural tensions, emerging discontinuities in apparently unrelated domains. Signals are collected by people, around the research question set in the brief; AI looks for correlations between signals from different domains. The human team brings the cultural interpretation that no model can replace.
 
 **Output**: Weak Signals Map · Driver clusters · Implication chains
 
@@ -28,9 +28,9 @@ The opening layer does not seek confirmation: it seeks anomalies. Weak signals, 
 
 ## 02 · FUTURES — Scenario Engine
 
-Signals become scenarios. Not forecasts, not linear projections: divergent worlds built by combining drivers in tension with each other. Each scenario has its own internal logic, its own everyday life, its own effect on the lives of the people the brand wants to reach.
+Signals become scenarios. Not forecasts, not linear projections: divergent worlds built by combining drivers in tension with each other. Each scenario has its own internal logic, its own everyday life, its own effect on the lives of the people the brand wants to reach. Divergence follows a construction rule: one scenario for each of the four generic futures (growth, collapse, discipline, transformation), closed megatrends present in all of them, one scenario built against the brand's strongest value, a horizon of 10–15 years.
 
-**Output**: 3–4 divergent scenarios in daily-life format · Headline · Materialization indicators
+**Output**: Four divergent scenarios in daily-life format · Headline · Materialization indicators · Closed megatrends and open variables
 
 *Workshop: [Collaborative Worldbuilding](../workshops/worldbuilding-collaborativo.md) — 4 hours*
 
@@ -38,9 +38,9 @@ Signals become scenarios. Not forecasts, not linear projections: divergent world
 
 ## 03 · IDENTITY — Brand Core
 
-The most delicate layer of the system. Brand Archaeology does not describe identity: it puts it under stress. It separates what is structural from what is contingent. Radical values are distinguished from fragile values. The result is the Speculative Brand DNA: the compass for the entire process.
+The most delicate layer of the system. Brand Archaeology does not describe identity: it puts it under stress. It separates what is structural from what is contingent. Radical values are distinguished from fragile values. The test works on the operational form of each value, and people who did not build the scenarios judge whether it holds. The result is the Speculative Brand DNA: the compass for the entire process.
 
-**Output**: Speculative Brand DNA · Immutable Values · Ethical Tensions · Fragile Values
+**Output**: Speculative Brand DNA · Immutable Values · Ethical Tensions · Fragile Values · Counterexample log
 
 *Workshop: [Brand Archaeology](../workshops/archeologia-brand.md) — 3 hours + 1 hour AI analysis*
 
@@ -60,17 +60,19 @@ The brand is placed inside the futures. Discursive prototypes, speculative artif
 
 Validated prototypes become direction. This layer does not produce an operational plan: it produces a protocol, a set of decision principles the brand will use to orient itself when conditions change. A plan becomes obsolete as soon as the context changes. A protocol remains valid precisely because it does not prescribe specific actions, but criteria for choice.
 
-**Output**: Strategic Protocol · Narrative Synthesis · Experiment Roadmap 30/60/90 days
+Before the protocol, the preferable future is designed as a project of its own after the exploration, and connected to today through backcasting in each scenario. Values stay fixed; the criteria that translate them into decisions are hypotheses, each with an expected effect and a review date.
 
-*Workshop: [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) — 3 hours*
+**Output**: Preferable future and backcasting · Strategic Protocol (criteria with expected effect and review date) · Narrative Synthesis · Experiment Roadmap 30/60/90 days
+
+*Workshop: [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) — 4 hours*
 
 ---
 
 ## 06 · GOVERNANCE — Brand Radar + Guardian
 
-The layer that transforms the BOS from project to permanent system. The Brand Radar monitors the coherence between identity and actions over time. The Specula Guardian detects narrative drift before it becomes a crisis. When signals diverge from reference scenarios for two consecutive cycles, the system signals the need for Re-Speculation: you do not start from scratch, but re-enter at the layer closest to the origin of the problem.
+The layer that transforms the BOS from project to permanent system. The Brand Radar monitors the coherence between identity and actions over time. The Specula Guardian detects narrative drift before it becomes a crisis. When signals diverge from reference scenarios for two consecutive cycles, the system signals the need for Re-Speculation: you do not start from scratch, but re-enter at the layer closest to the origin of the problem. Every drift receives a classification: error if it violates a red line, superseded model if the observed world falls outside all scenarios, learning if it is repeated, spontaneous and widespread without violating a red line. A superseded model leads to Re-Speculation; learning brings the review of the criterion to the Circle.
 
-**Output**: Brand Radar dashboard · Guardian Report monthly/quarterly · Re-Speculation trigger
+**Output**: Brand Radar dashboard · Guardian Report monthly/quarterly · Drift classification · Re-Speculation trigger
 
 *Workshop: [Radar Calibration](../workshops/calibrazione-radar.md) — 2 hours*
 

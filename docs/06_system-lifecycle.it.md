@@ -12,7 +12,13 @@ Un sistema che si attraversa una sola volta non è un sistema operativo: è un p
 
 Il Brand Radar trasforma i valori radicali in assi di misurazione. Non vanity metrics: indicatori che misurano nel tempo la coerenza tra promessa e comportamento. Ogni azione del brand viene letta attraverso quattro dimensioni: coerenza identitaria, tensione evolutiva, risonanza culturale, integrità operativa.
 
-Il Guardian Loop è il dispositivo che segnala i drift. Quando per due cicli consecutivi i segnali divergono dagli scenari di riferimento, il sistema non aspetta la crisi: propone la Re-Speculation. Non si riparte da zero. Si rientra nel layer più vicino all'origine del problema.
+Il Guardian Loop è il dispositivo che segnala i drift e li classifica, dichiarando ogni volta la regola usata:
+
+- **errore**: la deriva viola una red line, e va corretta;
+- **modello superato**: il mondo osservato esce da tutti gli scenari, e serve la Re-Speculation;
+- **apprendimento**: la deriva è ripetuta, spontanea e diffusa e non viola red line; il Circolo decide se il criterio che la contraddice va cambiato.
+
+Quando per due cicli consecutivi i segnali divergono dagli scenari di riferimento, il sistema non aspetta la crisi: propone la Re-Speculation. Non si riparte da zero. Si rientra nel layer più vicino all'origine del problema.
 
 > **Regola fondamentale: la Re-Speculation è sempre una decisione umana. Il sistema la suggerisce. Le persone la attivano.**
 
@@ -34,4 +40,4 @@ Il Guardian Loop è il dispositivo che segnala i drift. Quando per due cicli con
 | Generazione scenari divergenti | Selezione e validazione valoriale |
 | Monitoraggio segnali e coerenza | Scelta strategica e governance etica |
 | Contradiction detection nel DNA | Definizione dei valori radicali |
-| Decision support e advisory | Attivazione della Re-Speculation |
+| Decision support e advisory | Classificazione delle derive e attivazione della Re-Speculation |
