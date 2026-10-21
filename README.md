@@ -79,8 +79,8 @@ specula-bos/
 
 ## Versione
 
-**v2.1.0** · Documento architetturale completo + HMW Protocol + Agent Experience  
-Framework: Specula v2.4.5 · [oddtitoreal](https://github.com/oddtitoreal)
+**v2.2.0** · Revisione metodologica: regola di costruzione degli scenari, Value Stress Test con giudice esterno, futuro preferibile e backcasting, criteri come ipotesi, classificazione delle derive, regole del Circolo  
+Metodo: `specula-method` 2.0 · Runtime: `specula-framework` 1.3 · [oddtitoreal](https://github.com/oddtitoreal)
 
 ---
 

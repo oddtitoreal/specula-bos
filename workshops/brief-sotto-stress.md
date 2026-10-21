@@ -19,6 +19,24 @@ Each tension becomes a **How Might We** question that guides the rewrite.
 
 ---
 
+## Before the Session
+
+One or more preliminary meetings with the person holding the mandate prepare the workshop.
+
+**The threshold sheet.** For each of the three conditions, observable evidence is recorded:
+
+- **Recognized crisis**: the organization names the crisis in an internal document. Almost every organization lives inside some structural crisis; what counts is that this one recognizes its own.
+- **Real mandate**: the person who signs decides on brand and budget and takes part in the process.
+- **Willingness to subtract**: the client lists in advance what it is ready to remove.
+
+The sheet is archived for every engagement, including those that do not start.
+
+**The opening exercise.** How different was the organization ten years ago, and how different could it be ten years from now. People tend to expect less change in their future than they have lived in their past: the exercise makes that gap visible before work on scenarios begins.
+
+**Speaking rules.** When the person who decides sits in the group, contributions are collected in writing before discussion, anonymously if needed, and the person holding the mandate speaks last.
+
+---
+
 ## The HMW Protocol — Speculative Version
 
 How Might We questions in design thinking open solution space. In Specula, they do something different: **they open the space of what is worth designing** before any solution is proposed.
@@ -65,9 +83,11 @@ The facilitator's role is critical here: push the group to resist the pull towar
 
 > **Test for a good speculative HMW**: Does it make someone uncomfortable? Does it make the client slightly nervous? Does it open a space where no competitor currently operates? If yes, keep it.
 
-### Step 4 — Brief rewrite (20 min)
+### Step 4 — Brief rewrite and consensus (20 min)
 
 The Synthesis Circle selects 2–3 speculative HMWs that most productively challenge the original brief. The facilitator rewrites the brief mandate incorporating these tensions explicitly — not as problems to solve, but as the generative field within which the project will operate.
+
+The session closes with a written consensus on three points: the **research question** that will guide signals and scenarios, the **time window** being worked on, and the group's **working rules**. The consensus enters Brand Memory together with the modulated brief.
 
 ---
 
@@ -78,6 +98,8 @@ Modulated brief with:
 - Named tensions (the unresolved choices now made visible)
 - 2–3 speculative HMW questions that define the generative field
 - Revised mandate incorporating the new framing
+- Written consensus on three points: research question, time window, working rules
+- Completed threshold sheet
 
 ---
 

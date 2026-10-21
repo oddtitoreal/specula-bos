@@ -31,7 +31,7 @@ Italian versions: [00_index.it.md](./00_index.it.md) and all corresponding `.it.
 | 02 FUTURES | [Collaborative Worldbuilding](../workshops/worldbuilding-collaborativo.md) | 4 hours |
 | 03 IDENTITY | [Brand Archaeology](../workshops/archeologia-brand.md) | 3 hours + 1 hour AI |
 | 04 EXPLORATION | [Confrontation: The Brand in Futures](../workshops/confrontation-brand-nei-futuri.md) | 4 hours |
-| 05 STRATEGY | [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) | 3 hours |
+| 05 STRATEGY | [From Prototype to Protocol](../workshops/dal-prototipo-al-protocollo.md) | 4 hours |
 | 06 GOVERNANCE | [Radar Calibration](../workshops/calibrazione-radar.md) | 2 hours |
 | 07 INTERFACE | [Agent Onboarding](../workshops/onboarding-agent.md) | 2 hours |
 | Memory | [Memory Audit](../workshops/audit-memoria.md) | 2 hours · quarterly |

@@ -19,7 +19,7 @@ Stores the scenarios generated, the drivers that produced them, the materializat
 The brand's speculative DNA: radical values, ethical tensions, recurring archetypes, narrative evolution. It is the internal compass of the system, the criterion against which every output is evaluated before proceeding to the next layer.
 
 ### Decision Memory
-The archive of strategic choices made, with motivation, context, and outcome indicators. Allows the Guardian to detect whether current decisions are coherent with past ones or signal a silent drift.
+The archive of strategic choices made, the system's Decision Log. For each decision it records the criterion applied, the motivation, the context, the expected effect, and the review date; at review, the observed effect. Allows the Guardian to compare expected and observed effects, and to detect whether current decisions are coherent with past ones or signal a silent drift.
 
 ### Refusal Memory
 The Refusal Register over time: everything the brand has deliberately chosen not to become, with the value motivation and the risk avoided. Over time this archive becomes part of the identity as much as active choices.

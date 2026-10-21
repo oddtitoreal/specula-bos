@@ -11,11 +11,11 @@ Define the Brand Radar axes and alert thresholds specific to the brand, translat
 
 ## How It Works
 
-The team identifies five key dimensions on which to measure brand coherence. For each dimension it defines: the indicator, the data source, the detection frequency, and the alert threshold. The escalation protocol is also calibrated: what happens when an indicator falls below threshold, who is involved, and how quickly.
+The team identifies five key dimensions on which to measure brand coherence. For each dimension it defines: the indicator, the data source, the detection frequency, the owner, and the alert threshold. Thresholds lean toward reopening: a false alarm costs less than a late reaction. Beyond the thresholds of single indicators, the team defines the combinations that trigger an alert even when no indicator has crossed its own threshold. Finally, the escalation protocol is calibrated: what happens when an alert fires, who is involved, and how quickly, with times scaled to the speed of the signals each indicator watches.
 
 ## Expected Output
 
-Personalized Brand Radar with axes, indicators, thresholds, and escalation protocol.
+Personalized Brand Radar with axes, indicators, thresholds, combination rules, and escalation protocol.
 
 ---
 

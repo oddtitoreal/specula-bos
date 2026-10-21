@@ -12,7 +12,13 @@ A system traversed only once is not an operating system: it is a project with an
 
 The Brand Radar transforms radical values into measurement axes. Not vanity metrics: indicators that measure over time the coherence between promise and behavior. Every brand action is read through four dimensions: identity coherence, evolutionary tension, cultural resonance, operational integrity.
 
-The Guardian Loop is the device that signals drift. When for two consecutive cycles signals diverge from reference scenarios, the system does not wait for the crisis: it proposes Re-Speculation. You do not start from scratch. You re-enter at the layer closest to the origin of the problem.
+The Guardian Loop is the device that signals drift and classifies it, stating each time the rule applied:
+
+- **error**: the drift violates a red line, and is corrected;
+- **superseded model**: the observed world falls outside all scenarios, and Re-Speculation is needed;
+- **learning**: the drift is repeated, spontaneous and widespread and violates no red line; the Circle decides whether the criterion it contradicts should change.
+
+When for two consecutive cycles signals diverge from reference scenarios, the system does not wait for the crisis: it proposes Re-Speculation. You do not start from scratch. You re-enter at the layer closest to the origin of the problem.
 
 > **Fundamental rule: Re-Speculation is always a human decision. The system suggests it. People activate it.**
 
@@ -34,7 +40,7 @@ The Guardian Loop is the device that signals drift. When for two consecutive cyc
 | Generation of divergent scenarios | Value selection and validation |
 | Signal and coherence monitoring | Strategic choice and ethical governance |
 | Contradiction detection in DNA | Definition of radical values |
-| Decision support and advisory | Activation of Re-Speculation |
+| Decision support and advisory | Drift classification and activation of Re-Speculation |
 
 ---
 

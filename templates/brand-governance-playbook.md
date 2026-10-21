@@ -11,7 +11,7 @@ This template documents the six layers of the Brand Governance Playbook produced
 ### Radical values
 *Those that hold across all scenarios — non-negotiable even when costly.*
 
-| Value | Operational formulation | Stress test (holds in all 3 scenarios?) |
+| Value | Operational formulation | Stress test (holds in all 4 scenarios?) |
 |---|---|---|
 | | | |
 
@@ -48,6 +48,12 @@ This template documents the six layers of the Brand Governance Playbook produced
 3. Does it fall in the Prohibited zone? → Stop. Register in the Refusal Register.
 4. Otherwise → Proceed with documentation in the Decision Log
 
+**Decision Log**: every decision records the criterion applied, the expected effect, and the review date. Criteria are hypotheses: at the review date, the expected effect is compared with the observed one.
+
+| Date | Decision | Criterion applied | Expected effect | Review date | Observed effect |
+|---|---|---|---|---|---|
+| | | | | | |
+
 ---
 
 ## 4. Human Escalation Triggers
@@ -59,6 +65,15 @@ This template documents the six layers of the Brand Governance Playbook produced
 | Decision touching a radical value | Full Synthesis Circle | 48 hours |
 | Brand Radar alert below critical threshold | Brand Alchemist + operational lead | 24 hours |
 | Re-Speculation signal | Circle + Specula FC (if in Guardian) | 1 week |
+| Combination of indicators on alert | Brand Alchemist + Circle | Scaled to signal speed |
+
+**Drift classification**: every detected drift receives a class and the rule that produced it.
+
+| Class | Rule | Action |
+|---|---|---|
+| Error | Violates a red line | Correction |
+| Superseded model | The observed world falls outside all scenarios | Re-Speculation |
+| Learning | Repeated, spontaneous, widespread; no red line violated | The Circle deliberates on revising the criterion |
 
 ---
 
@@ -87,4 +102,4 @@ This template documents the six layers of the Brand Governance Playbook produced
 
 *Versione italiana: [brand-governance-playbook.it.md](./brand-governance-playbook.it.md)*
 
-*This template is part of the open ethical layer of the BOS — specula-bos v2.0*
+*This template is part of the open ethical layer of the BOS · specula-bos v2.2*

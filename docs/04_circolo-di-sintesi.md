@@ -36,6 +36,23 @@ The Brand Alchemist can be brought by Specula Future Crafting in the early stage
 
 ---
 
+## Functions, Decision Rules, and Disagreement
+
+The [Governance Charter](https://github.com/oddtitoreal/specula-framework/blob/main/docs/15_circolo_di_sintesi_governance.md) in `specula-framework` is the canonical source for the Circle's rules. The essentials are summarized here.
+
+**Five functions to cover**: Governance Architect, Brand Strategist, Ethics Reviewer, Community Advocate, External Auditor. The Community Advocate represents the people the brand serves and is the counterweight to entrusting the values to the Circle. The External Auditor is external to the project and holds a 72-hour suspensive veto. In a Circle of four people, one person may cover two functions; Community Advocate and External Auditor always have distinct holders.
+
+**Voting rules**: unanimity to change radical values and to admit or remove a member; qualified majority to advance a phase with the Ethical Gate on HOLD, to respond to a critical drift, and to enter unplanned sectors; simple majority for ordinary approval of artifacts.
+
+**Disagreement on values.** Faced with the same data, members from different disciplines can read the values differently: disagreement is data, handled with rules.
+
+1. Every position is recorded in writing before discussion, with the evidence supporting it. The person holding the decision mandate speaks last.
+2. The Brand Alchemist proposes a synthesis following three written rules: prefer the formulation that holds in more scenarios; on a tie, the one supported by more documented decisions; if the tension remains, record it as a known tension instead of choosing one pole.
+3. If the synthesis does not reach the required majority, the decision is suspended and submitted to the community for a non-binding opinion; the Circle has 14 more days to deliberate.
+4. Minority positions remain in the Decision Log.
+
+---
+
 ## Mandate and Rituals
 
 The Circle does not meet when there is a problem. It meets according to a defined ritual, independently of perceived urgency. These are the moments when the system reflects on itself before drift becomes crisis.

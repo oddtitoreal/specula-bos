@@ -29,7 +29,7 @@
 | 02 FUTURES | [Worldbuilding collaborativo](../workshops/worldbuilding-collaborativo.md) | 4 ore |
 | 03 IDENTITY | [Archeologia del brand](../workshops/archeologia-brand.md) | 3 ore + 1 ora AI |
 | 04 EXPLORATION | [Confrontation: il brand nei futuri](../workshops/confrontation-brand-nei-futuri.md) | 4 ore |
-| 05 STRATEGY | [Dal prototipo al protocollo](../workshops/dal-prototipo-al-protocollo.md) | 3 ore |
+| 05 STRATEGY | [Dal prototipo al protocollo](../workshops/dal-prototipo-al-protocollo.md) | 4 ore |
 | 06 GOVERNANCE | [Calibrazione del Radar](../workshops/calibrazione-radar.md) | 2 ore |
 | 07 INTERFACE | [Onboarding dell'Agent](../workshops/onboarding-agent.md) | 2 ore |
 | Memory | [Audit della memoria](../workshops/audit-memoria.md) | 2 ore · trimestrale |
